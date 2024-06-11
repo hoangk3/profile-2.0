@@ -53,10 +53,10 @@ function About() {
                   <FontAwesomeIcon icon={faEarthAsia} />
                 </div>
                 <div className='flex-1'>
-                  <h5 className='text-sm'>Wide World</h5>
+                  <h5 className='text-sm'>Developer</h5>
                   <div className='flex justify-between text-xs text-slate-700'>
-                    <p>developer</p>
-                    <p>2022 - now</p>
+                    <p>Dottie Community</p>
+                    <p>2021 - now</p>
                   </div>
                 </div>
               </div>
@@ -76,7 +76,7 @@ function About() {
                   <h5 className='text-sm'>THPT Tam Dương</h5>
                   <div className='flex justify-between text-xs text-slate-700'>
                     <p>Học sinh Khá</p>
-                    <p>201x - 202x</p>
+                    <p>2024 - 2027</p>
                   </div>
                 </div>
               </div>
