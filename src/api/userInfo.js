@@ -31,7 +31,7 @@ function UserInfo() {
 
   const fetchData = async () => {
     try {
-      const response = await axios.get("https://api.lanyard.rest/v1/users/921155314437455953");
+      const response = await axios.get("https://api.lanyard.rest/v1/users/789428736868876298");
       const userData = response.data.data;
       setUserData(userData);
     } catch (error) {
