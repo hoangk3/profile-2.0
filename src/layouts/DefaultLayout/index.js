@@ -5,12 +5,14 @@ import Footer from "../Footer";
 
 function DefaultLayout({ children }) {
   return (
-    <div className='bg-cyan-100 min-h-dvh overflow-hidden'>
+    <div className='bg-black min-h-dvh overflow-hidden'>
       <div className='max-w-6xl mx-auto md:p-5'>
-        <Header></Header>
-        <Navbar></Navbar>
-        <div className='flex p-5 md:rounded-xl bg-white shadow-sm md:mt-3'>{children}</div>
-        <Footer></Footer>
+        <Header />
+        <Navbar />
+        <div className='flex p-5 md:rounded-xl bg-white shadow-sm md:mt-3'>
+          {children}
+        </div>
+        <Footer />
       </div>
     </div>
   );
