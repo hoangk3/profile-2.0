@@ -35,10 +35,10 @@ function playMusic() {
     var player = document.getElementById("audio");
     play();
     function play(){
-    swal("Bạn có muốn bật nhạc 🎶 và xem profile của tôi không ❓\n" ,{
+    swal("Bạn có muốn bật nhạc 🎶 trong khi xem profile của mình không ❓\n" ,{
             buttons: {
-              allowcancel: "Tắt Nhạc",
-                allow: "Bật Nhạc"
+              allowcancel: "Không",
+                allow: "Có"
             }
         }).then(function(value) {
             if (value == "allow") {
