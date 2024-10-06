@@ -115,7 +115,7 @@ function UserInfo() {
             </h2>
             <div className='w-full h-1 bg-cyan-500 rounded-sm my-1'></div>
             <div className='font-semibold text-justify'>
-              Chào mọi người! Mình là Hoàng hay Puppy (<span className='text-cyan-800'>200x</span>), là Software developer mảng chính của mình là Data Analysis & Visualization. Với kiến thức tự học và các dự án thú vị, mình đang tìm kiếm cơ hội mới để
+              Chào mọi người! Mình là Hoàng hay Puppy_z4nx (<span className='text-cyan-800'>200x</span>), là Software developer mảng chính của mình là Data Analysis & Visualization. Với kiến thức tự học và các dự án thú vị, mình đang tìm kiếm cơ hội mới để
               đem sự sáng tạo và đam mê cũng như kiến thức để vào làm việc.{" "}
               <Link className='text-slate-600 underline' to='/skills'>
                 Xem thêm không nhỉ ?
