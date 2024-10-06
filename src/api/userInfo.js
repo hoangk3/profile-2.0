@@ -41,7 +41,7 @@ function UserInfo() {
 
   const fetchWeather = () => {
     axios
-      .get("https://api.openweathermap.org/data/2.5/weather?q=V%C4%A9nh%20Ph%C3%BAc&appid=3de3f35caaaecb082b76fd440b7b5a91")
+      .get("https://api.openweathermap.org/data/2.5/forecast?lat=21.360882&lon=105.547440&appid=3de3f35caaaecb082b76fd440b7b5a91")
       .then((response) => {
         setWeather(response.data);
       })
