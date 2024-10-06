@@ -275,7 +275,7 @@ function UserInfo() {
             {isWeather && (
               <div className='cursor-text absolute z-10 translate-x-[-20px] p-2 rounded-xl bg-slate-100 border-dashed border-cyan-500 border-4'>
                 <p>⛺ Thành phố: {weather.name}</p>
-                <p>⛅ Nhiệt độ: {weather.main.temp} ºF</p>
+                <p>⛅ Nhiệt độ: {weather.main.temp} ºC</p>
                 <p>🚿 Độ ẩm: {weather.main.humidity}%</p>
               </div>
             )}
