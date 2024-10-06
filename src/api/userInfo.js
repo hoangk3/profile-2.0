@@ -41,7 +41,7 @@ function UserInfo() {
 
   const fetchWeather = () => {
     axios
-      .get("https://api.openweathermap.org/data/2.5/weather?q=Vĩnh Phúc&appid=3de3f35caaaecb082b76fd440b7b5a91")
+      .get("https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/V%C4%A9nh%20Ph%C3%BAc?unitGroup=metric&include=days&key=FKY9G84TLV8B4Q5PSRDYZ8AUH&contentType=json")
       .then((response) => {
         setWeather(response.data);
       })
