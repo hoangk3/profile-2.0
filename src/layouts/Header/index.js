@@ -26,7 +26,7 @@ function Header() {
             target='_blank'
             rel='noopener noreferrer'
             className='rounded-full bg-cyan-200 size-[38px] items-center flex justify-center hover:bg-cyan-500'
-            href='https://discord.com/users/921155314437455953'>
+            href='https://discord.com/users/789428736868876298'>
             <FontAwesomeIcon icon={faDiscord} />
           </a>
         </Tippy>
