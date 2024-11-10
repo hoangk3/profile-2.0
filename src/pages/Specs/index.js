@@ -87,8 +87,8 @@ function Specs() {
           <div className='p-2 rounded-xl bg-slate-100'>
             <h4 className='mb-1 text-2xl font-bold'>Thiết Bị Khác</h4>
             <ul className='list-disc text-sm ml-6'>
-              <li>Chuột: Wireless Logitech</li>
-              <li>Màn: Gaming full HD</li>
+              <li>Chuột: G102 Logitech LightSync</li>
+              <li>Màn: Gaming full HD 100hz</li>
             </ul>
           </div>
         </div>
