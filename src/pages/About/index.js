@@ -23,9 +23,8 @@ function About() {
               <span>⬤</span> Tôi học lập trình như thế nào? 🤔
             </h3>
             <p className='text-slate-800/90 text-pretty'>
-              Tôi luôn tò mò về cách mà các trang web và trò chơi hoạt động. Từ việc sử dụng HTML để thiết kế giao diện, CSS để tạo kiểu, JavaScript để thêm chức năng, đến việc học React vào đầu năm 2024, mỗi bước tiến
-              mới đều mở ra một cánh cửa mới để hiểu sâu hơn về internet. Sự tò mò và đam mê không ngừng luôn dẫn dắt tôi trên hành trình này. Tôi tin rằng với kiên nhẫn và nỗ lực, mọi điều đều có thể trở thành hiện thực
-              trong thế giới công nghệ!
+              Tôi luôn tò mò về cách các trang web, phần mềm và hệ thống bảo mật vận hành– từ những nguyên tắc cơ bản trong lập trình đến các cơ chế bảo mật nâng cao. 
+             Chính vì vậy, mình đã theo đuổi Reverse Engineering & Security Research, khám phá cách phần mềm hoạt động từ bên trong, phân tích lỗ hổng và tìm ra những giải pháp tối ưu.
             </p>
           </div>
           <div>
@@ -34,9 +33,8 @@ function About() {
             </h3>
             <Img className='drag-none size-40 sm:size-44 md:size-48 lg:size-60 float-right mb-1 ml-2 select-none rounded-md border-4 border-pink-600/50 bg-neutral-800' alt='img' src={ChillImg}></Img>
             <p className='text-slate-800/90 text-pretty'>
-              Trang web này là một trang gian cá nhân giới thiệu về bản thân, thành tựu và dự án đã tham gia. Tôi chia sẻ hành trình cá nhân, kinh nghiệm và kỹ năng chuyên môn. Bạn có thể tìm hiểu về lý lịch, kinh nghiệm
-              và kỹ năng của tôi trong các lĩnh vực cụ thể. Ngoài ra, đây cũng là nơi tôi tạo kết nối, chia sẻ thông tin và ý kiến với cộng đồng. Hy vọng bạn hiểu thêm về tôi và có cơ hội hợp tác trong tương lai.
-            </p>
+              Đây là trang cá nhân nơi mình chia sẻ về hành trình, kỹ năng và những dự án đã thực hiện trong lĩnh vực Reverse Engineering & Security Research, cũng như Data Analysis & Visualization. Tại đây, bạn có thể tìm hiểu về kinh nghiệm, chuyên môn của mình, cũng như cách mình tiếp cận và giải quyết các vấn đề kỹ thuật.
+             Ngoài việc giới thiệu bản thân, mình cũng mong muốn tạo ra một không gian để kết nối, trao đổi ý tưởng và học hỏi từ cộng đồng. Nếu bạn quan tâm đến các chủ đề liên quan hoặc tìm kiếm cơ hội hợp tác, đừng ngần ngại liên hệ! 🚀
           </div>
         </div>
         <div>
