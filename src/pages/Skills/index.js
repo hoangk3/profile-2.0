@@ -148,7 +148,7 @@ function Skills() {
         <div className='bg-neutral-800 h-[36px] w-2'></div>
         <h2>Skills 🔍</h2>
       </div>
-      <p>Kỹ năng và công nghệ mà Mình sử dụng để xây dựng mọi thứ. 😊</p>
+      <p>Kỹ năng và công nghệ mà Mình sử dụng để xây dựng mọi thứ ( kể cả cái web này ). 😊</p>
       <div className='mt-6'>
         {categories.map((category, index) => (
           <div className='border-b-slate-600/40 border-b-[1px] cursor-pointer' key={index}>
