@@ -23,7 +23,7 @@ function About() {
               <span>⬤</span> Tôi học lập trình như thế nào? 🤔
             </h3>
             <p className='text-slate-800/90 text-pretty'>
-              Tôi luôn tò mò về cách các trang web, phần mềm và hệ thống bảo mật vận hành– từ những nguyên tắc cơ bản trong lập trình đến các cơ chế bảo mật nâng cao. 
+              Tôi luôn tò mò về cách các trang web, phần mềm và hệ thống bảo mật vận hành – từ những nguyên tắc cơ bản trong lập trình đến các cơ chế bảo mật nâng cao. 
              Chính vì vậy, mình đã theo đuổi Reverse Engineering & Security Research, khám phá cách phần mềm hoạt động từ bên trong, phân tích lỗ hổng và tìm ra những giải pháp tối ưu.
             </p>
           </div>
