@@ -34,7 +34,7 @@ function About() {
             <Img className='drag-none size-40 sm:size-44 md:size-48 lg:size-60 float-right mb-1 ml-2 select-none rounded-md border-4 border-pink-600/50 bg-neutral-800' alt='img' src={ChillImg}></Img>
             <p className='text-slate-800/90 text-pretty'>
               Đây là trang cá nhân nơi mình chia sẻ về hành trình, kỹ năng và những dự án đã thực hiện trong lĩnh vực Reverse Engineering & Security Research, cũng như Data Analysis & Visualization. Tại đây, bạn có thể tìm hiểu về kinh nghiệm, chuyên môn của mình, cũng như cách mình tiếp cận và giải quyết các vấn đề kỹ thuật.
-             Ngoài việc giới thiệu bản thân, mình cũng mong muốn tạo ra một không gian để kết nối, trao đổi ý tưởng và học hỏi từ cộng đồng. Nếu bạn quan tâm đến các chủ đề liên quan hoặc tìm kiếm cơ hội hợp tác, đừng ngần ngại liên hệ! 🚀
+             Ngoài việc giới thiệu bản thân, mình cũng mong muốn tạo ra một không gian để kết nối, trao đổi ý tưởng và học hỏi từ cộng đồng. Nếu bạn quan tâm đến các chủ đề liên quan hoặc tìm kiếm cơ hội hợp tác, đừng ngần ngại liên hệ! 🚀</p>
           </div>
         </div>
         <div>
