@@ -22,7 +22,7 @@ function Specs() {
     phoneOs: "Android 13",
     phoneDisk: "UFS 2.1 128GB",
     phoneCam: "32 MP (f/2.2)",
-    phonePin: "4500mAh",
+    phonePin: "4500mAh (sạc nhanh 25W)",
   };
 
   const LaptopInfo = ({ laptopCpu, laptopRam, laptopGpu, laptopDisplay, laptopOs, laptopDisk }) => (
