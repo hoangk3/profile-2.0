@@ -27,6 +27,7 @@ function Specs() {
 
   const LaptopInfo = ({ laptopCpu, laptopRam, laptopGpu, laptopDisplay, laptopOs, laptopDisk }) => (
     <ul className="list-disc text-sm ml-6">
+      <li>Samsung Galaxy A71</li>
       <li>CPU: {laptopCpu}</li>
       <li>GPU: {laptopGpu}</li>
       <li>RAM: {laptopRam}</li>
