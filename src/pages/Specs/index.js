@@ -11,18 +11,18 @@ function Specs() {
     laptopRam: "RAM OCPC X3TREME RGB AURA 16GB",
     laptopGpu: "VGA Radeon RX 6600 8GB GDDR6",
     laptopDisplay: "1920 x 1080 (32bit) (64bit)",
-    laptopOs: "Windows 10 Pro",
+    laptopOs: "Windows 11 Edition Revison Os",
     laptopDisk: "SSD-Kington (1TB, 3.500/2.800 MB/s)",
   };
 
   const phoneSpecs = {
-    phoneCpu: "unknown",
-    phoneRam: "unknown",
-    phoneDisplay: "unknown",
-    phoneOs: "unknown",
-    phoneDisk: "unknown",
-    phoneCam: "unknown",
-    phonePin: "unknown",
+    phoneCpu: "Snapdragon 730",
+    phoneRam: "6GB/8GB",
+    phoneDisplay: "Super AMOLED Plus",
+    phoneOs: "Android 13",
+    phoneDisk: "UFS 2.1 128GB",
+    phoneCam: "32 MP (f/2.2)",
+    phonePin: " 4500mAh",
   };
 
   const LaptopInfo = ({ laptopCpu, laptopRam, laptopGpu, laptopDisplay, laptopOs, laptopDisk }) => (
@@ -41,14 +41,14 @@ function Specs() {
   const PhoneInfo = ({ phoneCpu, phoneRam, phoneDisplay, phoneOs, phoneDisk, phoneCam, phonePin }) => (
     <>
       <ul className='list-disc text-sm ml-6'>
-        <li>Không có</li>
-        {/* <li>CPU: {phoneCpu}</li>
+        <li>Điện thoại tôi dùng </li>
+        {/ <li>CPU: {phoneCpu}</li>
         <li>RAM: {phoneRam}</li>
         <li>Disk: {phoneDisk}</li>
         <li>Màn: {phoneDisplay}</li>
         <li>Os: {phoneOs}</li>
         <li>Camera: {phoneCam}</li>
-        <li>Pin, sạc: {phonePin}</li> */}
+        <li>Pin, sạc: {phonePin}</li> /}
       </ul>
     </>
   );
