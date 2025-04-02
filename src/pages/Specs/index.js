@@ -27,7 +27,6 @@ function Specs() {
 
   const LaptopInfo = ({ laptopCpu, laptopRam, laptopGpu, laptopDisplay, laptopOs, laptopDisk }) => (
     <ul className="list-disc text-sm ml-6">
-      <li>Samsung Galaxy A71</li>
       <li>CPU: {laptopCpu}</li>
       <li>GPU: {laptopGpu}</li>
       <li>RAM: {laptopRam}</li>
@@ -39,6 +38,7 @@ function Specs() {
 
   const PhoneInfo = ({ phoneCpu, phoneRam, phoneDisplay, phoneOs, phoneDisk, phoneCam, phonePin }) => (
     <ul className="list-disc text-sm ml-6">
+      <li>Samsung Galaxy A71</li>
       <li>CPU: {phoneCpu}</li>
       <li>RAM: {phoneRam}</li>
       <li>Disk: {phoneDisk}</li>
